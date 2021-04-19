@@ -10,7 +10,7 @@
 
 
 * 🌱 I’m currently learning **Swift & iOS Development**
-* 🎓 I am a Computer Science graduate from Northern Illinois University '18.
+* 🎓 I am a Computer Science graduate from Northern Illinois University.
 * 👨‍💻 All of my projects are available in my [Github Repository](https://github.com/k-stannard?tab=repositories)
 
 

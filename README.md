@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Koty</h1>
+<h1 align="left">Hi, I'm Koty</h1>
 
 
-<p align="left"> 
-<a href="https://twitter.com/sbk_dev"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/sbk_dev?color=55960c&label=Follow&logo=twitter&logoColor=white&style=flat-square"/></a>
-<a href="https://github.com/k-stannard"><img alt="views" title="Github Views" src="https://komarev.com/ghpvc/?username=k-stannard&color=blue&style=flat-square"/></a>
-</p>
+
 
 ## 📖 About me
 
@@ -31,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
-## 🤝🏻 Connect with Me
+## 🤝🏻 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/kotystannard"><img src="https://img.shields.io/badge/-Koty%20Stannard-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

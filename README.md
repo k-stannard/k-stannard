@@ -1,16 +1,16 @@
-<h1 align="left">Hi, I'm Koty</h1>
-
-
-
+![github_banner](https://user-images.githubusercontent.com/21287326/181625208-83b87888-d1a2-4c96-a2fd-9927cad0f74d.png)
 
 ## 📖 About me
 
 
-* 🌱 I’m currently learning **Swift & iOS Development**
-* 🎓 I am a Computer Science graduate from Northern Illinois University.
-* 👨‍💻 All of my projects are available in my [Github Repository](https://github.com/k-stannard?tab=repositories)
+* 🌱 I’m currently learning **Swift & iOS Development** in pursuit of my goal of becoming a professional iOS developer.
+* 🎓 I am a Computer Science graduate from Northern Illinois University.  
+* 👨‍💻 All of my projects are available in my [Github Repository](https://github.com/k-stannard?tab=repositories)  
+* I enjoy spending my free time weight lifting, hiking, meditating, and learning new languages (currently 🇸🇪 & 🇩🇪)  
 
+## In Development
 
+I am currently working on a weight lifting progress tracker, [**Fit Progress**](https://github.com/k-stannard/Fit-Progress).
 
 
 ## 🛠 Languages & Tools

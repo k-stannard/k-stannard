@@ -11,7 +11,7 @@
 ## In Development
 
 I am currently working on a weight lifting progress tracker, [**Fit Progress**](https://github.com/k-stannard/Fit-Progress).  
-I will be learning and using SwiftUI for the development of the **Fit Progress** app.
+I am using UIKit, SwiftUI, and CoreData for the development of the **Fit Progress** app.
 
 
 ## 🛠 Languages & Tools

@@ -33,6 +33,5 @@ I am currently working on learning the ins and outs of web development.
 <p align="left">
 <a href="https://linkedin.com/in/kotystannard"><img src="https://img.shields.io/badge/-Koty%20Stannard-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:k.stannard@live.com"><img src="https://img.shields.io/badge/-k.stannard@live.com-D14836?style=flat&logo=Mail.Ru&logoColor=white"/></a>
-<a href="https://twitter.com/sbk_dev"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%40sbk_dev&style=social&url=https%3A%2F%2Ftwitter.com%2Fsbk_dev">
 </p>
 

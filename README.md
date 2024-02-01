@@ -10,7 +10,7 @@
 
 ## In Development
 
-I am currently working on learning the ins and outs of web development.
+I am currently working on learning the ins and outs of web development with ![The Odin Project](https://www.theodinproject.com).
 
 ## 🛠 Languages & Tools
 #### Primary 
